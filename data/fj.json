@@ -9,7 +9,7 @@
 			
 			"prolist":[
 				{
-					"img":"./src/assets/images/yunnan.jpeg",
+					"img":"static/yunnan.jpeg",
 					"title":"丽江",
 					"des":"丽江古镇，宛如故里客栈",
 					"price":"￥360",
